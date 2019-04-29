@@ -9,7 +9,7 @@ For this project, students will adapt and deploy an Information & Referral web a
 
 A finished product should include a web app usable by students and community members, a form where agencies can update their information, and documentation that ensures that the web app can be used after students have moved on.
 
-The web app should use standards recognized in the field of Information and Referral, such as AIRS style for listings and the Human Services Data Standard from Open Referral. Listings should be organized according to a taxonomy, such as Open Eligibility.
+The web app should use standards recognized in the field of Information and Referral, such as [AIRS style](https://www.airs.org/i4a/pages/index.cfm?pageid=3362) for listings and the [Human Services Data Specification from Open Referral](https://github.com/openreferral/specification). Listings should be organized according to a taxonomy, such as [Open Eligibility](https://github.com/ASUMRenterCenter/openeligibility).
 
 The documentation for this project should be written in a way that is easy for a lay person to understand, and should be published in a format that is easy to update, such as a wiki. Instructional videos are a plus.
 
