@@ -1,5 +1,5 @@
 # UM-Referrals
-Materials for development of a resource database for University of Montana students.
+## Materials for development of a resource database for University of Montana students.
 
 Around the nation, colleges and universities are realizing that students are having difficulty meeting their most basic needs, such as food, housing, and healthcare.
 
