@@ -14,3 +14,8 @@ The web app should use standards recognized in the field of Information and Refe
 The documentation for this project should be written in a way that is easy for a lay person to understand, and should be published in a format that is easy to update, such as a wiki. Instructional videos are a plus.
 
 Resources related to this project are available on the ASUM Renter Center's GitHub profile: https://github.com/ASUMRenterCenter
+
+### University of Montana style resources
+
+* [UM's Brand Guidelines](http://www.umt.edu/brand/) have great information about UM's logos, colors, etc.
+* [AP Stylebook](https://apstylebook.com/the-university-of-montana/ap_stylebook)
