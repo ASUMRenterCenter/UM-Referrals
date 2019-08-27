@@ -1,4 +1,7 @@
 # UM-Referrals
+
+## This repo is no longer in use, so it has been archived. Find updated materials at https://github.com/ASUMRenterCenter
+
 ## Materials for development of a resource database for University of Montana students.
 
 Around the nation, colleges and universities are realizing that students are having difficulty meeting their most basic needs, such as food, housing, and healthcare.
