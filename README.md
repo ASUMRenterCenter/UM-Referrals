@@ -18,4 +18,3 @@ Resources related to this project are available on the ASUM Renter Center's GitH
 ### University of Montana style resources
 
 * [UM's Brand Guidelines](http://www.umt.edu/brand/) have great information about UM's logos, colors, etc.
-* [AP Stylebook](https://apstylebook.com/the-university-of-montana/ap_stylebook)
